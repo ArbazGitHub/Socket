@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 107,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 94,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 94,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 113,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 113,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 87,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 87,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 99,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 99,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 112,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 112,
+                        "endOffset": 891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 102,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 102,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 98,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 98,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 95,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 95,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 103,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 103,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 97,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1298,
+                        "endColumn": 97,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 100,
+                    "endOffset": 1319
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 100,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1324,
+                    "endColumn": 115,
+                    "endOffset": 1435
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 115,
+                        "endOffset": 1608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1440,
+                    "endColumn": 106,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 102,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endColumn": 190,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 386,
+                        "endColumn": 190,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 127,
+                    "endOffset": 1861
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 577,
+                        "endColumn": 123,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1866,
+                    "endColumn": 110,
+                    "endOffset": 1972
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 701,
+                        "endColumn": 106,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1977,
+                    "endColumn": 214,
+                    "endOffset": 2187
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 808,
+                        "endColumn": 214,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2192,
+                    "endColumn": 131,
+                    "endOffset": 2319
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1023,
+                        "endColumn": 127,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2324,
+                    "endColumn": 131,
+                    "endOffset": 2451
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1151,
+                        "endColumn": 127,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2456,
+                    "endColumn": 188,
+                    "endOffset": 2640
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 188,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2645,
+                    "endColumn": 212,
+                    "endOffset": 2853
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1279,
+                        "endColumn": 212,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2858,
+                    "endColumn": 108,
+                    "endOffset": 2962
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1492,
+                        "endColumn": 104,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2967,
+                    "endColumn": 191,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1597,
+                        "endColumn": 191,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3159,
+                    "endColumn": 129,
+                    "endOffset": 3284
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1789,
+                        "endColumn": 125,
+                        "endOffset": 1914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3289,
+                    "endColumn": 200,
+                    "endOffset": 3485
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1915,
+                        "endColumn": 200,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3490,
+                    "endColumn": 205,
+                    "endOffset": 3691
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2116,
+                        "endColumn": 201,
+                        "endOffset": 2317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3696,
+                    "endColumn": 96,
+                    "endOffset": 3788
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2318,
+                        "endColumn": 92,
+                        "endOffset": 2410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3793,
+                    "endColumn": 91,
+                    "endOffset": 3880
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2411,
+                        "endColumn": 87,
+                        "endOffset": 2498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3885,
+                    "endColumn": 106,
+                    "endOffset": 3987
+                },
+                "from": {
+                    "file": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/values-nb/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2499,
+                        "endColumn": 102,
+                        "endOffset": 2601
+                    }
+                }
+            }
+        ]
+    }
+]

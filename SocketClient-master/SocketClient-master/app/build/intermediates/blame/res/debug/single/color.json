@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Theta Projects/Android Demo Projects/SocketClient-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_light.xml"
+    }
+]
